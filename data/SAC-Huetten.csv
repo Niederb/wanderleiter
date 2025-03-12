@@ -1,4 +1,4 @@
-Name;Alternativname;Höhe;SAC-Sektion;Schlafplätze;Schutzraum;Ein­wei­hung;Kanton;Kommentar;Typ;Extrainfos
+Name;Alternativname;Höhe;SAC-Sektion;Schlafplätze;Schutzraum;Einweihung;Kanton;Kommentar;Typ;Extrainfos
 Aarbiwak;;2731;Pilatus;17;17;1976;Bern;;SAC-Hütte;"{{Coordinate|NS=46.555648|EW=8.15221|type=mountain|sortkey=NS|elevation=2731|region=CH-BE|text=ICON2|name=Aarbiwak}}&nbsp;&#124;&nbsp;"
 Adulahütte;Capanna Adula CAS;2012;Tessin;30;11;1924;Tessin;;SAC-Hütte;"{{Coordinate|NS=46/29/57.1|EW=8/59/44.2|type=mountain|sortkey=NS|elevation=2012|region=CH-TI|text=ICON2|name=Adulahütte}}&nbsp;&#124;&nbsp;"
 Aiguillette à la Singla-Biwak;Bivouac de l’Aiguillette à la Singla;3179;Chasseron;12;12;1970;Wallis;;SAC-Hütte;"{{Coordinate|NS=45.94148|EW=7.45416|type=mountain|sortkey=NS|elevation=3179|region=CH-VS|text=ICON2|name=Aiguillette à la Singla Biwak}}&nbsp;&#124;&nbsp;"
@@ -141,7 +141,7 @@ Trifthütte;;2520;Bern;42;16;2007;Bern;Wegen Lawinenniedergang geschlossen;SAC-H
 Tschiervahütte;Chamanna da Tschierva;2583;Bernina;100;8;1951;Graubünden;;SAC-Hütte;"{{Coordinate|NS=46.40388|EW=9.880131|type=mountain|sortkey=NS|elevation=2573|region=CH-GR|text=ICON2|name=Tschiervahütte}}&nbsp;&#124;&nbsp;"
 Tuoihütte;Chamonna Tuoi;2250;Bassa;77;14;1914;Graubünden;;SAC-Hütte;"{{Coordinate|NS=46.83072|EW=10.13246|type=mountain|sortkey=NS|elevation=2250|region=CH-GR|text=ICON2|name=Chamonna Tuoi}}&nbsp;&#124;&nbsp;"
 Turtmannhütte;;2519;Prévôtoise;72;14;1928;Wallis;;SAC-Hütte;"{{Coordinate|NS=46.16008|EW=7.69951|type=mountain|sortkey=NS|elevation=2519|region=CH-VS|text=ICON2|name=Turtmannhütte}}&nbsp;&#124;&nbsp;"
-Valsoreyhütte;Cabane de Valsorey;3037;La Chaux-de-Fonds;60;30;?;Wallis;;SAC-Hütte;"{{Coordinate|NS=45/55/49.6|EW=7/16/18.5|type=mountain|sortkey=NS|elevation=3030|region=CH-VS|text=ICON2|name=Valsoreyhütte}}&nbsp;&#124;&nbsp;"
+Valsoreyhütte;Cabane de Valsorey;3037;La Chaux-de-Fonds;60;30;1926;Wallis;;SAC-Hütte;"{{Coordinate|NS=45/55/49.6|EW=7/16/18.5|type=mountain|sortkey=NS|elevation=3030|region=CH-VS|text=ICON2|name=Valsoreyhütte}}&nbsp;&#124;&nbsp;"
 Vélanhütte;Cabane du Vélan;2642;Genf;62;12;1993;Wallis;;SAC-Hütte;"{{Coordinate|NS=45/55/1.1|EW=7/14/43.65|type=mountain|sortkey=NS|elevation=2642|region=CH-VS|text=ICON2|name=Cabane du Vélan}}&nbsp;&#124;&nbsp;"
 Vignetteshütte;Cabane des Vignettes;3160;Monte Rosa;125;15;2008;Wallis;;SAC-Hütte;"{{Coordinate|NS=45.98978|EW=7.47571|type=mountain|sortkey=NS|elevation=2520|region=CH-VS|text=ICON2|name=Vignetteshütte}}&nbsp;&#124;&nbsp;"
 Violetteshütte;Cabane des Violettes;2209;Montana-Vermala;24;0;1994;Wallis;;SAC-Hütte;"{{Coordinate|NS=46.34245|EW=7.50000|type=mountain|sortkey=NS|elevation=2204|region=CH-VS|text=ICON2|name=Violetteshütte}}&nbsp;&#124;&nbsp;"
