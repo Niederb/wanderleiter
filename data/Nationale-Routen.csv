@@ -1,8 +1,8 @@
-Nummer,Name,Etappen,KM,HM,Abstieg,Höchster Punkt
-1,Via Alpina,20,390,23500,24800,
-2,Trans Swiss Trail,32,510,17800,17900,
-3,Alpenpanorama-Weg,29,510,17800,17800,
-4,ViaJacobi (alle Varianten),33,645,17500,16900,
-5,Jura-Höhenweg,16,320,13900,13900,
-6,Alpenpässe-Weg,43,695,47100,49200,
-7,ViaGottardo,20,330,10300,10300,
+Nummer,Name,Etappen,KM,HM,Abstieg,Höchster Punkt,Tiefster Punkt
+1,Via Alpina,20,390,23500,24800,2778,375
+2,Trans Swiss Trail,32,510,17800,17900,2109,222
+3,Alpenpanorama-Weg,29,510,17800,17800,1658,395
+4,ViaJacobi (alle Varianten),33,645,17500,16900,1414,372
+5,Jura-Höhenweg,16,320,13900,13900,1679,332
+6,Alpenpässe-Weg,43,695,47100,49200,2983,815
+7,ViaGottardo,20,330,10300,10300,2109,222
