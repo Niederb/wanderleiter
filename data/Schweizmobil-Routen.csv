@@ -1,0 +1,88 @@
+Nummer,Name,Start,Ziel,Etappen,KM,HM,Abstieg,Höchster Punkt,Tiefster Punkt,Typ
+1,Via Alpina,"Vaduz (Gaflei, FL)",Montreux,20,390,23500,24800,2778,375,National
+2,Trans Swiss Trail,Porrentruy,Mendrisio,32,510,17800,17900,2109,222,National
+3,Alpenpanorama-Weg,Rorschach,Genève,29,510,17800,17800,1658,395,National
+4,ViaJacobi,Rorschach- / Konstanz (D),Genève (Grenze),33,645,17500,16900,1414,372,National
+5,Jura-Höhenweg,Dielsdorf,Nyon,16,320,13900,13900,1679,332,National
+6,Alpenpässe-Weg,"St. Moritz, Corviglia",St-Gingolph,43,695,47100,49200,2983,815,National
+7,ViaGottardo,Basel,Chiasso,20,330,10300,10300,2109,222,National
+22,Kulturspur Appenzellerland,Urnäsch,Walzenhausen,6,71,3300,3400,,,Regional
+23,Senda ScuolSamnaun,Scuol,Samnaun,2,37,2300,1750,,,Regional
+24,Thurweg,"Wildhaus, Gamplüt",Rüdlingen,8,160,1900,2900,,,Regional
+25,Senda Segantini,Savognin,Muottas Muragl,4,74,4100,2800,,,Regional
+26,Panorama Rundweg Thunersee,Thun,Thun,4,63,2200,2200,,,Regional
+27,Swiss Tour Monte Rosa,Saas Fee,Zermatt,3,56,4000,4200,,,Regional
+29,Pragelpass-Weg,Schwyz,Glarus,3,48,1600,1650,,,Regional
+30,ViaValtellina,Gargellen (A),Tirano (I),8,135,7000,8000,,,Regional
+31,Chemin du Jura,Delémont,PorrentruySt-UrsanneSaignelégier,5,94,3200,2600,,,Regional
+32,ViaSurprise,Dornach,Dornach,6,88,3500,3500,,,Regional
+33,Via Albula/Bernina,Thusis,Tirano (I),10,130,5100,5400,,,Regional
+34,Klettgau-Rhein-Weg,Hallau,Schaffhausen,2,46,1450,1450,,,Regional
+35,Walserweg,San Bernardino,Brand (A),19,320,19600,20200,,,Regional
+36,Chemin du vignoble,Martigny,Leuk,4,65,2400,2300,,,Regional
+38,ViaBerna,Bellelay,Sustenpass,20,305,13700,12400,,,Regional
+39,Aletsch Panoramaweg,"Blatten, Belalp",Bellwald,3,30,1850,2400,,,Regional
+40,ViaSbrinz,Stansstad,Ponte (I),5,115,6300,5400,,,Regional
+42,Aargauer Weg,Frick,Muri AG,6,105,2700,2600,,,Regional
+43,Jakobsweg Graubünden,Müstair,Oberalppass,18,260,11100,10300,,,Regional
+44,Appenzeller Weg,Rankweil (A),St. Peterzell,3,52,1550,1300,,,Regional
+45,Nationalpark-Panoramaweg,"Sent, Sur En",Lavin,7,105,7300,7000,,,Regional
+46,Tour des Alpes Vaudoises,Aigle,Château-d'OexLes DiableretsAigle,8,130,7400,7400,,,Regional
+47,Zürich-Zugerland-Panoramaweg,Zürich (Triemli),Zug,2,34,1050,1150,,,Regional
+48,Toggenburger Höhenweg,Wildhaus,Wil SG,6,88,4300,4800,,,Regional
+49,Vier-Quellen-Weg,"Andermatt, Oberalppass","Furkapass, Belvédère",5,82,4700,4400,,,Regional
+50,ViaSpluga,Thusis,Chiavenna (I),4,68,2900,3300,,,Regional
+51,Furka-Höhenweg,Oberwald,Andermatt,2,35,2100,2000,,,Regional
+52,Sentiero Lago di Lugano,Lugano (Magliaso),Mendrisio,9,135,9000,9600,,,Regional
+53,Bernina-Tour,Poschiavo,Maloja,5,68,4700,3000,,,Regional
+54,Mittelbünden-Panoramaweg,Lenzerheide,Davos,2,41,2600,2500,,,Regional
+55,ViaSuworow,Airolo,Ilanz,11,170,7600,8100,,,Regional
+56,Lötschberg-Panoramaweg,Kiental,Fafleralp,4,51,3100,2300,,,Regional
+57,Obwaldner Höhenweg,Alpnachstad (Pilatus),Stanserhorn,6,99,6300,6500,,,Regional
+58,Chemin des Bisses,Martigny (Col des Planches),Grimentz,7,105,4700,4600,,,Regional
+59,Sentiero Cristallina,Bignasco,Airolo,3,43,3000,2300,,,Regional
+60,ViaRhenana,Kreuzlingen,Basel,10,195,3100,3200,,,Regional
+61,Walliser Sonnenweg,Crans-Montana,Brig,4,76,3300,4100,,,Regional
+62,Walserweg Gottardo,Binn,"Obersaxen, Friggahüs",14,210,13900,14000,,,Regional
+63,Schwyzer Höhenweg,Küssnacht a.R.,Einsiedeln,5,62,4200,3800,,,Regional
+64,ViaSett,Chur,Chiavenna (I),5,110,4500,4800,,,Regional
+65,Grenzpfad Napfbergland,Langenthal,Brünigpass,6,115,5900,5400,,,Regional
+66,Liechtensteiner Panoramaweg,Malbun (FL),Ruggell (FL),3,47,2500,3600,,,Regional
+67,Dreiland-Wanderweg,"Basel, Schifflände","Weil am RheinRiehenBasel, Schifflände",3,43,900,900,,,Regional
+68,WALSA-Weg,Bad Ragaz,Amden,4,53,2700,2300,,,Regional
+69,Züri Oberland-Höhenweg,Winterthur,Rapperswil,4,76,2900,2900,,,Regional
+70,ViaFrancigena,(Canterbury)Ballaigues,Col du Gd St-Bernard(Rom),10,200,5600,4000,,,Regional
+71,Chemin des Trois-Lacs,Yverdon-les-Bains,Murten,3,61,760,740,,,Regional
+72,Prättigauer Höhenweg,Landquart,Klosters,4,77,4600,3900,,,Regional
+73,Sardona-Welterbe-Weg,Filzbach,Flims,6,100,8100,7700,,,Regional
+74,Sentiero Verzasca,Sonogno,Locarno,2,35,1350,2100,,,Regional
+75,Schanfigger Höhenweg,Arosa,"Maladers, alte Post",4,47,2400,3200,,,Regional
+76,Seeland-Solothurn-Weg,Erlach,Solothurn,4,68,820,820,,,Regional
+78,Freiburger Voralpenweg,Fribourg,Château-dOex,5,73,3700,3400,,,Regional
+79,Thurgauer Panoramaweg,Amriswil,Wil SG,2,37,950,820,,,Regional
+80,ViaJura,Basel,Biel,7,130,4200,4100,,,Regional
+81,Fribourg en diagonale,Gruyères,Murten,3,68,1650,1950,,,Regional
+82,Sanetsch-Muveran-Weg,Gsteig,Ovronnaz,3,42,3100,3000,,,Regional
+83,Emmenuferweg,Brienzer Rothorn,EmmensprungEmmenbrücke,4,65,850,2700,,,Regional
+84,Zürichsee-Rundweg,"Zürich, Bürkliplatz","Zürich, Bürkliplatz",10,130,2900,2900,,,Regional
+85,Senda Sursilvana,Oberalppass,Chur,5,105,3300,4800,,,Regional
+86,Rheintaler Höhenweg,Rorschach,Sargans,6,110,5000,4900,,,Regional
+87,Via Engiadina,Maloja,Vinadi,12,165,7900,8600,,,Regional
+88,Nidwaldner Höhenweg,Stanserhorn,"Emmetten, Stn. Niederbauen",6,94,6100,6400,,,Regional
+90,ViaStockalper,Brig,Gondo,3,30,1800,1600,,,Regional
+91,Chemin du Jura bernois,Moutier,La Chaux-de-Fonds,4,64,2200,1800,,,Regional
+,Neckerweg,Schwägalp,Bazenheid,2,38,1000,1750,,,
+95,Au fil du Doubs,Les Brenets,St-Ursanne,4,68,1500,1900,,,Regional
+98,Waldstätterweg,Brunnen,Rütli,7,115,4800,4800,,,Regional
+99,Weg der Schweiz,Seelisberg (Rütli),Brunnen,4,35,1500,1500,,,Regional
+261,Sentier du Lac de la Gruyère,,,3,43,1500,1500,,,Lokal
+360,Brienzersee Drei Wasserfälleweg,,,2,18,780,780,873,,Lokal
+381,Schwarzwasser-Sense-Schluchtenweg,,,2,23,950,950,831,,Lokal
+478,Weissenstein-Passwang-Weg,,,2,32,1850,1350,1273,,Lokal
+570,Nidwaldner Zentrumsweg,,,2,20,1450,1450,,,Lokal
+599,ViaUrschweiz,,,2,20,1950,780,,,Lokal
+693,Via Capricorn,,,3,51,3400,3400,,,Lokal
+712,Sentiero Alpino Calanca,,,3,45,3400,4500,,,Lokal
+737,Via Calanca,,,2,21,1250,500,,,Lokal
+757,Alte Averserstrasse,,,2,28,1850,820,,,Lokal
+980,Appenzeller Alpenweg,,,2,29,1700,1700,1564,,Lokal
